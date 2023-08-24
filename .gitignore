@@ -24,3 +24,5 @@ client/yarn-error.log*
 
 # server
 server/myenv/
+
+.vscode
